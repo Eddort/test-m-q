@@ -27,8 +27,6 @@ export default (() => {
 				Button
 			</Button>
 		</Section>
-		<Components.LtqmptLoopText />
-		<Components.SsqmptSlider />
 		<Components.TestpackagedsjhgdjshGallery />
 		<Link
 			font={"--capture"}
